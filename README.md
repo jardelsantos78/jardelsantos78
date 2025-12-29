@@ -11,10 +11,11 @@ Minha atuação combina experiência prática de Service Desk com foco em segura
 
 
 ## 🎯 Foco 2026
-- Segurança da Informação aplicada ao dia a dia do Service Desk
+- Segurança da Informação aplicada ao ambiente corporativo
 - Automação de processos operacionais
 - Conscientização corporativa em segurança
 - IA como apoio ao suporte e à gestão de riscos
+- **Service Desk como pilar estratégico de segurança, automação e otimização de processos em todo o ciclo de vida dos chamados**
 
 
 ## 🛠️ Competências
@@ -34,3 +35,4 @@ Minha atuação combina experiência prática de Service Desk com foco em segura
 
 🔗 **Links**
 - LinkedIn: https://www.linkedin.com/in/jardel-santos-2012
+- 🌐 Site: https://jardelsantos78.github.io
