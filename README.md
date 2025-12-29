@@ -1,16 +1,36 @@
-## Hi there 👋
+# Jardel Santos
 
-<!--
-**jardelsantos78/jardelsantos78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔐 Segurança da Informação | 🤖 Automação & IA | 🧑‍💻 Service Desk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Profissional de Tecnologia da Informação com mais de 20 anos de experiência em ambientes corporativos, atuando com **Segurança da Informação**, **automação de processos**, **governança de TI** e **melhoria contínua**.
+
+
+Minha atuação combina experiência prática de Service Desk com foco em segurança, conformidade e eficiência operacional, aplicando automação e Inteligência Artificial de forma responsável.
+
+
+## 🎯 Foco 2026
+- Segurança da Informação aplicada ao dia a dia do Service Desk
+- Automação de processos operacionais
+- Conscientização corporativa em segurança
+- IA como apoio ao suporte e à gestão de riscos
+
+
+## 🛠️ Competências
+- Segurança da Informação (LGPD, ISO/IEC 27001, gestão de riscos)
+- Microsoft 365, Entra ID, Active Directory
+- PowerShell, Power Automate, Power Apps
+- Automação de Service Desk
+- Resposta a Incidentes e Governança
+
+
+## 📂 Conteúdos e Projetos
+- Playbooks de Segurança
+- Guias práticos para Service Desk
+- Scripts de automação
+- Materiais de conscientização
+
+
+🔗 **Links**
+- LinkedIn: https://www.linkedin.com/in/jardel-santos-2012
